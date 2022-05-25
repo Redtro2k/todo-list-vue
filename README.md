@@ -19,6 +19,14 @@ npm run build
 ```
 npm run lint
 ```
+list of Package
+momentjs,
+TailwindCSS
+
+
+
+Created By Redtro2k 
+Darwin Llacuna
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
